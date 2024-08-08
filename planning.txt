@@ -1,0 +1,3 @@
+board is 15x15
+must code in powerup tiles
+starting coordinate, direction, word input
